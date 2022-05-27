@@ -1,0 +1,11 @@
+.navbar {
+    margin-bottom: 40px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #000080, #ADD8E6);
+}
